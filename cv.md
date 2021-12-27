@@ -1,4 +1,3 @@
-![My Photo](/assets/images/markdown/markdown.png)
 #SALDATAU ALIAKSANDR#
 **email:** poceluikrevetki@ya.ru
 **WhatsApp:** +8618689807804
@@ -7,6 +6,10 @@ I live and work in China on the island of Hainan, before the pandemic, I worked 
 **Examples of videos shot and edited by me:**
 *[Atlantis Hotel](https://www.youtube.com/watch?v=llR2OMfsf7k)
 *[Sanya Pool Party](https://www.youtube.com/watch?v=GuiJISLlLcM)
+**Examples of my code)):**
+`<script>
+    alert( 'Привет, RS!' );
+</script>`
 Basic knowledge of HTML, CSS, GIT version control system. In-depth knowledge of graphic editors (*Photoshop, Lightroom*) and video editors (*FinalCut, Davinci*). I have experience in creating landing pages and sites on WordPress.
 Graduated from the University with a degree in accounting, analysis and audit.
 Knowledge of languages: English - *basic level,* Chinese - *HSK3.*
