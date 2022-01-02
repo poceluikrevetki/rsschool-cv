@@ -58,6 +58,7 @@ body {
 .logo {
         display: flex;
         justify-content: flex-end;
+        padding: 10px 10px;
     }                                   
 header {
     background: rgb(170, 170, 170);
