@@ -1,16 +1,14 @@
 @font-face {
     font-family: Lato;
-     src: url("assets/fonts/Lato-Regular.ttf");
-     font-weight: 100;
-   }
-@font-face {
-    font-family: Lato;
-     src: url("assets/fonts/Lato-Regular.ttf");
-     font-weight: 300;
+     src: url("./assets/fonts/Lato-Regular.ttf");
+     font-size: 18px; 
    }
 * {
     box-sizing: border-box;
   }
+html {
+    scroll-behavior: smooth; 
+  }   
 body {
     display: flex;
     flex-direction: column;
@@ -21,9 +19,34 @@ body {
 .container {
         max-width: 1440px;
         margin: 0 auto;
-      }    
-header, footer {
-    background: rgb(238, 222, 204);
-    height: 20vh;
     }
+.nav-list {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        list-style: none;          
+      }            
+.nav-link {
+        padding: 0 20px;
+        line-height: 30px;
+        color:azure;
+      } 
+.section-item a {
+        color: #829985;
+        text-decoration: none;  
+        transition: color 0.5s;
+      }
+.main-container {
+        display: flex;
+        flex-wrap: wrap;
+      }    
+.section {
+        width: 50%;
+      }                       
+header {
+    background: rgb(170, 170, 170);
+    }  
+footer {
+        background: rgb(125, 125, 125);
+    }      
   

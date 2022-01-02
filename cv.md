@@ -18,8 +18,8 @@
     alert( 'Привет, RS!' );
 </script>`
 
-**SCILLS:** Basic knowledge of HTML, CSS, GIT version control system. In-depth knowledge of graphic editors (*Photoshop, Lightroom*) and video editors (*FinalCut, Davinci*). I have experience in creating landing pages and sites on WordPress.
+**SKILLS:** Basic knowledge of HTML, CSS, GIT version control system. In-depth knowledge of graphic editors (*Photoshop, Lightroom*) and video editors (*FinalCut, Davinci*). I have experience in creating landing pages and sites on WordPress.
 
 **EDUCATION:** Graduated from the University with a degree in accounting, analysis and audit.
 
-**LANGVIGES** Knowledge of languages: English - *basic level,* Chinese - *HSK3.*
+**LANGUAGES** Knowledge of languages: English - *basic level,* Chinese - *HSK3.*
