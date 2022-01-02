@@ -14,7 +14,7 @@ body {
     flex-direction: column;
     justify-content: space-between;
     min-height: 100vh;
-    margin: 0; padding: 0;
+    margin: 20; padding: 0;
     }
 .container {
         max-width: 1440px;
@@ -36,17 +36,33 @@ body {
         text-decoration: none;  
         transition: color 0.5s;
       }
-.main-container {
+body {
+        font-family: 'Lato', sans-serif;
+        font-size: 15px;
+        font-weight: 300;
+        line-height: 1.5;
+        color: #707070;
+      } 
+.section-title {
+        font-size: 20px;
+        font-weight: 400;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+        color: #505050;
+      }      
+@media (max-width: 768px) {
+        .section {
+          width: 100%;
+        }
+      } 
+.logo {
         display: flex;
-        flex-wrap: wrap;
-      }    
-.section {
-        width: 50%;
-      }                       
+        justify-content: flex-end;
+    }                                   
 header {
     background: rgb(170, 170, 170);
     }  
 footer {
-        background: rgb(125, 125, 125);
+        background: rgb(170, 170, 170);
     }      
   
